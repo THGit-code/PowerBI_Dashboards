@@ -24,12 +24,12 @@ Implementation of interactive elements to enable efficient data exploration.
 ## Page 1: Job Market Overview  
 A high-level overview of the data job market, showing job posting volume over the year, median hourly and yearly salaries, and compensation levels by role. The page enables quick comparison between job roles and compensation models and serves as an entry point for deeper analysis.
 
-![Dashboard Page 1](images\project_data_jobs_page1.jpg)
+![Dashboard Page 1](images/project_data_jobs_page1.jpg)
 
 ## Page 2: Role Drill-Down Overview  
 A detailed view of metrics for the selected role, including yearly and hourly salaries, remote work availability, degree requirements, and health insurance mentions. The page also shows global distribution of job postings and breakdowns by work schedule type.
 
-![Dashboard Page 2](images\project_data_jobs_page2.jpg)
+![Dashboard Page 2](images/project_data_jobs_page2.jpg)
 
 ## Conclusion
 This dashboard highlights how compensation, remote work availability, and benefits vary significantly across data roles and regions. It allows quick identification of high-demand roles, salary ranges, and market differences, making it useful for job seekers, analysts, and hiring stakeholders.  
